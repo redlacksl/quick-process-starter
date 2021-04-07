@@ -1,0 +1,7 @@
+Title,FilePath,ArgumentList
+Firefox,C:\Program Files\Mozilla Firefox\firefox.exe,
+Firefox Private Mode,C:\Program Files\Mozilla Firefox\firefox.exe,-private-window
+Google Drive,C:\Program Files\Mozilla Firefox\firefox.exe,https://drive.google.com/drive/my-drive
+Email,C:\Program Files\Mozilla Thunderbird\thunderbird.exe,
+Crusader Kings 3,C:\Program Files (x86)\Steam\steamapps\common\Crusader Kings III\binaries\ck3.exe,
+PowerShell ISE,C:\Windows\system32\WindowsPowerShell\v1.0\powershell_ise.exe,
